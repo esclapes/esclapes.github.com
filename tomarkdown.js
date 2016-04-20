@@ -7,7 +7,7 @@ var fs = require('fs'),
     pages = [],
     notFound = [];
 
-dive('./node', { all: true }, function(err, file) {
+dive('./_node', { all: true }, function(err, file) {
   if (err) throw err;
 
   try {
@@ -27,7 +27,7 @@ dive('./node', { all: true }, function(err, file) {
 }, function() {
     var template = swig.compileFile('./template.swig');
     pages.forEach(function(page) {
-        fs.writeFile('./minimal/_posts/'+page.parts.slug+'.md', template(page.parts));
+        fs.writeFile('./_posts/'+page.parts.slug+'.md', template(page.parts));
     });
 
 });
