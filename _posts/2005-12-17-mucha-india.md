@@ -3,7 +3,7 @@ layout: single
 title: "Mucha India"
 redirect_from: /node/94
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Solo llevo cuatro días en Calcuta y ya puedo decir que he visto mucho.  

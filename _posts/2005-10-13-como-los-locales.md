@@ -3,7 +3,7 @@ layout: single
 title: "Como los locales!!"
 redirect_from: /node/107
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Ya estabamos bastante cansados del rollo VIP de los mochileros. Aprovechando que aquí en Laos el circuito turistico está menos desarrollado y absorve menos, decidimos apostar por un poquito de transporte local.  

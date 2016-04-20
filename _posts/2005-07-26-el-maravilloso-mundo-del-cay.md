@@ -3,7 +3,7 @@ layout: single
 title: "El maravilloso mundo del Çay"
 redirect_from: /node/136
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Es imposible ser consciente del concepto Çay (Chai en teclados ingleses) hasta que no se ha visitado este pais rebosante de turcos y de su fiel escudera la cultura turca.  

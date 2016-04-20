@@ -3,7 +3,7 @@ layout: single
 title: "Trabajar en Casa"
 redirect_from: /node/111
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2005-10-18

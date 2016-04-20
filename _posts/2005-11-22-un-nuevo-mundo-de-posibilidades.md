@@ -3,7 +3,7 @@ layout: single
 title: "Un nuevo mundo de posibilidades."
 redirect_from: /node/99
 categories:
-tags: 
+tags: []
 comments: 
     - author: el yurtos
       date: 2005-11-22

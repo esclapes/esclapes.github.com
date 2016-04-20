@@ -3,7 +3,7 @@ layout: single
 title: "Mi vida (Barcelona Edition)"
 redirect_from: /node/54
 categories:
-tags: 
+tags: []
 comments: 
     - author: Andrés Reche
       date: 2008-02-18

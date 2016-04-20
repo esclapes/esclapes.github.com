@@ -3,7 +3,7 @@ layout: single
 title: "Mi primera foto desde y de la furgo"
 redirect_from: /node/43
 categories:
-tags: 
+tags: []
 comments: 
     - author: Mikel
       date: 2010-05-06

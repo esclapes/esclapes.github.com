@@ -3,7 +3,7 @@ layout: single
 title: "Riego profundo para zonas áridas"
 redirect_from: /node/44
 categories:
-tags: permacultura
+tags: [permacultura]
 comments: 
     - author: Eduardo
       date: 2010-05-09

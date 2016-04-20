@@ -3,7 +3,7 @@ layout: single
 title: "Detallitos sobre la India (Varanasi)"
 redirect_from: /node/93
 categories:
-tags: 
+tags: []
 comments: 
     - author: lince astuto
       date: 2005-12-29

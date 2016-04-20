@@ -3,7 +3,7 @@ layout: single
 title: "Post Nothing Day"
 redirect_from: /node/25
 categories:
-tags: 
+tags: []
 comments: 
     - author: Un admirador anónimo
       date: 2010-01-26

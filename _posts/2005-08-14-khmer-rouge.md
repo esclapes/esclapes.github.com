@@ -3,7 +3,7 @@ layout: single
 title: "Khmer Rouge"
 redirect_from: /node/123
 categories:
-tags: 
+tags: []
 comments: 
 ---
 La situacion actual en Camboya, economicamente mala y culturalmete contradictoria viene marcada, principalmente, por su historia reciente, mas exactamente por el rigimen comunista de los Khmer Rouge, y aun mas exactamente por su lider, un tal _Pol Pot,_ que se cargo a dos millones de Camboyanos en solo 4 anyitos, destruyo todas las fabricas y vacio las ciudades para volver al campo...  

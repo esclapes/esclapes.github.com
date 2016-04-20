@@ -3,7 +3,7 @@ layout: single
 title: "De Paseo en Buenos Aires"
 redirect_from: /node/58
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Sentados en la terraza de una parrilla de barrio en una nocturna calle de Palermo. Las calles de Buenos Aires diurnas no són las mismas que las calles nocturnas. Sólo nos queda una trago de vino de Mendoza en la mesa y una sonrisa que sube desde la barriga llena.  

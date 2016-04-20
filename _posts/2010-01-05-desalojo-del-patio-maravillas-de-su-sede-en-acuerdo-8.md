@@ -3,7 +3,7 @@ layout: single
 title: "Desalojo del Patio Maravillas de su sede en Acuerdo 8"
 redirect_from: /node/8
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Esta mañana han desalojado el Patio Maravillas, un centro social alternativo que daba vida a Madrid. No puedo expresar mi indignación mejor que la asamblea con su [comunicado](http://defiendelo.patiomaravillas.net/2010/01/05/no-desalojan-un-centro-social-%C2%A1el-patio-vive). Aquí os dejo algunos párrafos.

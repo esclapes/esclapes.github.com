@@ -3,7 +3,7 @@ layout: single
 title: "Tomemos el poder: la revolución que viene."
 redirect_from: /node/14
 categories:
-tags: revolución,movimientos sociales
+tags: [revolución,movimientos sociales]
 comments: 
 ---
 Comentaba el otro día, usando la voz de Gabilondo, que tras [la farsa de Copenhagen hay que mirar hacia los movimientos sociales](http://esclap.es/node/6 "¿Qué hacemos después de Compenhagen?")![Únete a la Revolución](/images/posts/2010-01-11-tomemos-el-poder-la-revolucion-que-viene/civ_revolution.jpg)

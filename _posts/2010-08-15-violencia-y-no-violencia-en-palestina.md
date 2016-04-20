@@ -3,7 +3,7 @@ layout: single
 title: "Violencia y no violencia en Palestina"
 redirect_from: /node/147
 categories:
-tags: palestina
+tags: [palestina]
 comments: 
     - author: Jordi de Miguel
       date: 2010-08-15

@@ -3,7 +3,7 @@ layout: single
 title: "La Ju (sin palabras)"
 redirect_from: /node/110
 categories:
-tags: 
+tags: []
 comments: 
 ---
 ![](/images/posts/2005-10-24-la-ju-sin-palabras/IMG_0057.jpg)  

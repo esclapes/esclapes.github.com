@@ -3,7 +3,7 @@ layout: single
 title: "11 Howth Road, Clontarf, D3*"
 redirect_from: /node/66
 categories:
-tags: 
+tags: []
 comments: 
     - author: ξενιτεμένη
       date: 2007-03-27

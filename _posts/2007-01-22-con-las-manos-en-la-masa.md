@@ -3,7 +3,7 @@ layout: single
 title: "Con las manos en la masa..."
 redirect_from: /node/70
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Uno de mis propósitos de año era mantener el blog... mal empezamos. Pero no todo esta perdido. Tras unos días de readaptación a la lluvia y a la ausencia de luz directa del astro sol, ya estoy de nuevo con las manos en la masa.  

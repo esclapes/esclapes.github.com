@@ -3,7 +3,7 @@ layout: single
 title: "ESTAMBUL. Entre Europa y Asia."
 redirect_from: /node/132
 categories:
-tags: 
+tags: []
 comments: 
 ---
 En cinco dias aun no se como describir ni la ciudad ni las sensaciones que me producen. Hay una embrujo que solo tienen las ciudades con mucha historia, y Estambul es seguro una de las que mas historia tiene en Europa.  

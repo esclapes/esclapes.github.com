@@ -3,7 +3,7 @@ layout: single
 title: "Fotos varias"
 redirect_from: /node/71
 categories:
-tags: 
+tags: []
 comments: 
     - author: ξενιτεμένη
       date: 2007-01-15

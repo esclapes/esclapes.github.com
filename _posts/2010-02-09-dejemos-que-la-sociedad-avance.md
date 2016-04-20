@@ -3,7 +3,7 @@ layout: single
 title: "Dejemos que la sociedad avance."
 redirect_from: /node/30
 categories:
-tags: ideas,propiedad
+tags: [ideas,propiedad]
 comments: 
     - author: Un admirador anónimo
       date: 2010-02-09

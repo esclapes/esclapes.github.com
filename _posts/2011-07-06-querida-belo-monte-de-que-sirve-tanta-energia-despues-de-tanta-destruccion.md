@@ -3,7 +3,7 @@ layout: single
 title: "Querida Belo Monte, ¿de qué sirve tanta energía después de tanta destrucción?"
 redirect_from: /node/153
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Acabo de firmar mi adhesión a esta petición contra la [Presa Belo Monte](http://es.wikipedia.org/wiki/Represa_de_Belo_Monte) en Brasil, que sería la tercera más grande del mundo. Está escrita por algunos líderes indígenas y pide la protección de esas tierras, de los pueblos que viven (y vivirán) en ellas y de una forma de vida que se vería destruida por el desarrollo económico de la zona. [Firma la petición ahora](http://www.salvalaselva.org/mailalert/726/no-a-la-hidroelectrica-belo-monte-firma-la-peticion-de-raoni).

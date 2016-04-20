@@ -3,7 +3,7 @@ layout: single
 title: "RAYTHEON - IBM"
 redirect_from: /node/76
 categories:
-tags: 
+tags: []
 comments: 
 ---
 El titulo de este "momento" (porque no hay otra forma de llamarlo) es tan trágico como balsámico.  

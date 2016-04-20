@@ -3,7 +3,7 @@ layout: single
 title: "Asilo politico."
 redirect_from: /node/79
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Ayer sufrí una experiencia traumática.  

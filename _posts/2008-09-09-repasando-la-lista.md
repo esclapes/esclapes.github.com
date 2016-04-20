@@ -3,7 +3,7 @@ layout: single
 title: "Repasando la lista"
 redirect_from: /node/53
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Muchos, y muy adecuados, han sido los reproches de amigos y familiares por no haber escrito ni una palabra desde que estoy viviendo aquí en Barcelona.  

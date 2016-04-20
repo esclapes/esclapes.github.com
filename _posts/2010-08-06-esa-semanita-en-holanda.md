@@ -3,7 +3,7 @@ layout: single
 title: "Esa semanita en Holanda"
 redirect_from: /node/145
 categories:
-tags: viajes,personal,holanda,fotos
+tags: [viajes,personal,holanda,fotos]
 comments: 
 ---
 Al final han sido poquitos los días que he pasado allí, y menos aún los días que hemos sacado la cámara. Aquí van algunas de las fotos de esos días.

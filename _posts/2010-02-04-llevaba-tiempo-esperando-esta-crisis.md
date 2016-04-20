@@ -3,7 +3,7 @@ layout: single
 title: "Llevaba tiempo esperando esta crisis"
 redirect_from: /node/28
 categories:
-tags: decrecimiento,crisis
+tags: [decrecimiento,crisis]
 comments: 
 ---
 Como mi mala memoria no me permite citar lo que un amigo de [Decrecimiento Madrid](http://esclap.es/node/decrecimientomadrid.blogspot.com) me comentaba el otro día, aquí va mi libre interpretación de lo que decía:

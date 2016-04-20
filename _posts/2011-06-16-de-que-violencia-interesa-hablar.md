@@ -3,7 +3,7 @@ layout: single
 title: "¿De que violencia interesa hablar?"
 redirect_from: /node/152
 categories:
-tags: otro mundoç
+tags: [otro mundoç]
 comments: 
 ---
 > Pasé toda la mañana gritando a los parlamentarios que accedían al parlamento. Hubo tensión, algunas cargas policiales para abrir paso, algunas pocas botellas de plástico lanzadas a los mossos y, según vi en televisión, a alguien se le ocurrió rociar con spray a dos parlamentarios ¿Pero acaso esto merece el calificativo genérico de "acto violento de los indignados"? ¿Vamos a regalarle esta cortina de humo a los que han aprobado el paquete de medidas mas violento de nuestra historia reciente?

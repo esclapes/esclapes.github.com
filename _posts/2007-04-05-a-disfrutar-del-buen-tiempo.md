@@ -3,7 +3,7 @@ layout: single
 title: "A disfrutar del buen tiempo!!"
 redirect_from: /node/65
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2007-04-05

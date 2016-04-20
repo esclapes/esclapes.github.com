@@ -3,7 +3,7 @@ layout: single
 title: "El retorno del Ligre."
 redirect_from: /node/86
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Pues sí, oficialmente acaba de empezar el fin de nuestro viaje! Ayer fijamos la fecha de vuelta para el 28 de febrero.  

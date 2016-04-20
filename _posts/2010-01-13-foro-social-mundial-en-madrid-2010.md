@@ -3,7 +3,7 @@ layout: single
 title: "Foro Social Mundial en Madrid 2010"
 redirect_from: /node/16
 categories:
-tags: 
+tags: []
 comments: 
 ---
 A finales de Enero se celebrará en Madrid una de las ediciones del Foro Social Mundial, que cumple 10 años.

@@ -3,7 +3,7 @@ layout: single
 title: "Vida Social: mucha vida"
 redirect_from: /node/118
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Bueno, aunque lo visto hasta ahora (meditación y buceo) dice lo contrario. Y el futuro cercano, también: nos dirigimos a Laos a trabajar en una grana ecológica...  

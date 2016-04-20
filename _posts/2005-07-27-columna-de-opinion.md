@@ -3,7 +3,7 @@ layout: single
 title: "Columna de Opinion"
 redirect_from: /node/135
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2005-07-27

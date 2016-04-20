@@ -3,7 +3,7 @@ layout: single
 title: "Feliz cumpleaños!"
 redirect_from: /node/55
 categories:
-tags: 
+tags: []
 comments: 
 ---
 <div xmlns="http://www.w3.org/1999/xhtml">Muchas gracias por todas vustras felicitaciones de cumpleaños, así se hace mucho más llevadero acercarse a los treinta.  

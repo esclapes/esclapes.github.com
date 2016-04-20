@@ -3,7 +3,7 @@ layout: single
 title: "Dando la cara"
 redirect_from: /node/31
 categories:
-tags: personal,fotos
+tags: [personal,fotos]
 comments: 
     - author: Anónimo
       date: 2010-02-11

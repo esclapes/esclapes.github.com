@@ -3,7 +3,7 @@ layout: single
 title: "Esperanzador"
 redirect_from: /node/63
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2007-06-19

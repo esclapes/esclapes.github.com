@@ -3,7 +3,7 @@ layout: single
 title: "Sombra no. Pero muchas nubes. II"
 redirect_from: /node/80
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Y cuando digo nuebes no hablo literalmente. Primero, porque Carlos dejaría de leer mi blog, y segundo porque Dublin le esta dando la espalda a su fama y nos esta regalando un verano más que agradable.  

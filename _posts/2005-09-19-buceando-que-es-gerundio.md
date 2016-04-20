@@ -3,7 +3,7 @@ layout: single
 title: "Buceando que es gerundio."
 redirect_from: /node/119
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Ahora que por fin todo el Nitrogeno residual que contenia mi cuerpo ha vuelto a la atmosfera. Ahora que he vuelto a tierra firme después de visitar islas paradisiacas. Ahora que el internet es un poco más barato. Aquí va la experiencia subacuatica:  

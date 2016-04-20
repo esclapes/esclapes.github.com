@@ -3,7 +3,7 @@ layout: single
 title: "Feliz 2009 - Los 9 puntazos que le robo al año que se va."
 redirect_from: /node/3
 categories:
-tags: 
+tags: []
 comments: 
     - author: total 13
       date: 2009-12-31

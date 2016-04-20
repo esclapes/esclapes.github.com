@@ -3,7 +3,7 @@ layout: single
 title: "WonderLaos?"
 redirect_from: /node/114
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2005-10-01

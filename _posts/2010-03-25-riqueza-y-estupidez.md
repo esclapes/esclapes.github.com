@@ -3,7 +3,7 @@ layout: single
 title: "Riqueza y estupidez"
 redirect_from: /node/39
 categories:
-tags: economía
+tags: [economía]
 comments: 
 ---
 _de Alicia Jardel_

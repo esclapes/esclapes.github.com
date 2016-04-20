@@ -3,7 +3,7 @@ layout: single
 title: "¿Somos idiotas?"
 redirect_from: /node/151
 categories:
-tags: citas
+tags: [citas]
 comments: 
 ---
 El otro día alguien me comentaba que lo único bueno del 2011 es que será mejor que el 2012\. Predicción que será verdad a menos que reconozcamos que somos idiotas y hagamos algo para cambiarlo. Aquí tenéis un artículo atribuido a [Perez Reverte](http://www.perezreverte.com/), aunque no lo he podido comprobar, que lo deja bien claro:

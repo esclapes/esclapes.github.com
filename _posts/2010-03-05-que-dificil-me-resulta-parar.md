@@ -3,7 +3,7 @@ layout: single
 title: "Qué dificil me resulta parar"
 redirect_from: /node/37
 categories:
-tags: personal
+tags: [personal]
 comments: 
     - author: Anónimo
       date: 2010-03-05

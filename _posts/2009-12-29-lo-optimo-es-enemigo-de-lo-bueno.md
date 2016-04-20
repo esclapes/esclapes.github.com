@@ -3,7 +3,7 @@ layout: single
 title: "Lo óptimo es enemigo de lo bueno"
 redirect_from: /node/1
 categories:
-tags: 
+tags: []
 comments: 
     - author: Tu hermano prodigio 
       date: 2009-12-29

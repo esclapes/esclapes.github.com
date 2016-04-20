@@ -3,7 +3,7 @@ layout: single
 title: "Cambodian IDH: 130"
 redirect_from: /node/124
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2005-08-14

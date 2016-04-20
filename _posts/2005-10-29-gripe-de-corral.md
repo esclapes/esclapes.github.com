@@ -3,7 +3,7 @@ layout: single
 title: "Gripe de Corral"
 redirect_from: /node/106
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2005-10-29

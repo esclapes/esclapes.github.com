@@ -3,7 +3,7 @@ layout: single
 title: "Good Morning, Ballycoolin!!"
 redirect_from: /node/83
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2006-06-07

@@ -3,7 +3,7 @@ layout: single
 title: "Breath in, breath out."
 redirect_from: /node/117
 categories:
-tags: 
+tags: []
 comments: 
 ---
 ![](/images/posts/2005-09-14-breath-in-breath-out/Meditation%20Hall.jpg)  

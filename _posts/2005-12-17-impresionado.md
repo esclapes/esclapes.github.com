@@ -3,7 +3,7 @@ layout: single
 title: "Impresionado"
 redirect_from: /node/90
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Tengo que reconocer que India me ha impresionado. Más que India, lo que esta pasando dentro de esta ciudad y, por extensión, dentro de este país.  

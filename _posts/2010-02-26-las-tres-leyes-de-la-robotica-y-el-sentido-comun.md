@@ -3,7 +3,7 @@ layout: single
 title: "Las tres leyes de la robótica y el sentido común"
 redirect_from: /node/34
 categories:
-tags: economía,corporaciones
+tags: [economía,corporaciones]
 comments: 
     - author: vaso
       date: 2010-02-26

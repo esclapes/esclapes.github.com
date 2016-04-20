@@ -3,7 +3,7 @@ layout: single
 title: "Momentos Bangkok"
 redirect_from: /node/109
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Hemos estado redescubriendo la ciudad a base de viajes en autobus con destino desconocido. Si hay tiempo contaré las nuevas impresiones en breve.  

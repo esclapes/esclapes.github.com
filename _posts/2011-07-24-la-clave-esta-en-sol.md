@@ -3,7 +3,7 @@ layout: single
 title: "La Clave está en Sol"
 redirect_from: /node/154
 categories:
-tags: 
+tags: []
 comments: 
     - author: qruvnufm3928
       date: 2011-07-24

@@ -3,7 +3,7 @@ layout: single
 title: "Meditando"
 redirect_from: /node/121
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2005-08-30

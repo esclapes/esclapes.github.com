@@ -3,7 +3,7 @@ layout: single
 title: "Boicot al Apartheid de Israel"
 redirect_from: /node/142
 categories:
-tags: otro mundo,palestina
+tags: [otro mundo,palestina]
 comments: 
 ---
 ![](/images/posts/2010-06-16-boicot-al-apartheid-de-israel/P1040925.JPG)

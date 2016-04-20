@@ -3,7 +3,7 @@ layout: single
 title: "Dublin, donde Guinnes llueve sobre mojado."
 redirect_from: /node/72
 categories:
-tags: 
+tags: []
 comments: 
 ---
 No hay forma de resumir seis meses de vidilla en Irlanda sin empezar presentando el escenario principal. Dublin.  

@@ -3,7 +3,7 @@ layout: single
 title: "La vacuna de la gripe A y sus efectos secundarios."
 redirect_from: /node/17
 categories:
-tags: 
+tags: []
 comments: 
     - author: Homínido Anónimo
       date: 2010-01-14

@@ -3,7 +3,7 @@ layout: single
 title: "BANGKOK. Primera impresion: Podia ser mejor"
 redirect_from: /node/128
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2005-07-31

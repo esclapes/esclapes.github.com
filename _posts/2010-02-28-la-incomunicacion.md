@@ -3,7 +3,7 @@ layout: single
 title: "La incomunicación"
 redirect_from: /node/35
 categories:
-tags: 
+tags: []
 comments: 
 ---
 <div style="text-align: center;">

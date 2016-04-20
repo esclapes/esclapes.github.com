@@ -3,7 +3,7 @@ layout: single
 title: "Sin complejos"
 redirect_from: /node/64
 categories:
-tags: 
+tags: []
 comments: 
     - author: total 13
       date: 2007-06-14

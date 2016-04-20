@@ -3,7 +3,7 @@ layout: single
 title: "No Impact Man, la película"
 redirect_from: /node/27
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Recuerdo perfectamente cuando descubrí el [blog de No Impact Man](http://noimpactman.typepad.com/). Fué en Dublín, cuando caí en una de sus entradas y la idea me pareció tan genial que, a día de hoy, Colin Beavan todavía sigue en mi lector de feeds.

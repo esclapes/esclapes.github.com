@@ -3,7 +3,7 @@ layout: single
 title: "Parece que ya hay plan para el principio de verano!!"
 redirect_from: /node/69
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Hay algunos momentos clave en los que merece la pena ponerse de acuerdo.  

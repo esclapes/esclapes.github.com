@@ -3,7 +3,7 @@ layout: single
 title: "De nuevo en Estambul"
 redirect_from: /node/133
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Bueno, ya sabeis mas o menos lo que ha pasado estos dias. Para que sepais cuales son los planes actuales y futuros:  

@@ -3,7 +3,7 @@ layout: single
 title: "Más Camboya"
 redirect_from: /node/101
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Para recobrar el caracter de 'diario de viaje' del blog, voy a intentar resumir en los 8 minutos que me quedan de ciber, las casi dos semanas que pasamos en Camboya.  

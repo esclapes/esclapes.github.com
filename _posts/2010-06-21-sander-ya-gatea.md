@@ -3,7 +3,7 @@ layout: single
 title: "Sander ya gatea"
 redirect_from: /node/143
 categories:
-tags: sander,personal,video
+tags: [sander,personal,video]
 comments: 
     - author: vaso
       date: 2010-06-21

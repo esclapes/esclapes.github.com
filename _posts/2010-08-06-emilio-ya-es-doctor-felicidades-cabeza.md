@@ -3,7 +3,7 @@ layout: single
 title: "Emilio ya es doctor. Felicidades, cabeza."
 redirect_from: /node/146
 categories:
-tags: 
+tags: []
 comments: 
 ---
 ![](/images/posts/2010-08-06-emilio-ya-es-doctor-felicidades-cabeza/photocabine-judith-sander-edu.jpg)

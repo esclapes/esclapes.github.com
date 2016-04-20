@@ -3,7 +3,7 @@ layout: single
 title: "Unas semanas muy productivas, casi frenéticas"
 redirect_from: /node/50
 categories:
-tags: 
+tags: []
 comments: 
 ---
 ¡¡Hola hola hola!!  

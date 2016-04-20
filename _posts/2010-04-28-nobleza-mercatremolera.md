@@ -3,7 +3,7 @@ layout: single
 title: "Nobleza Mercatremolera"
 redirect_from: /node/41
 categories:
-tags: movimientos sociales,consumo,alimentación,activismo
+tags: [movimientos sociales,consumo,alimentación,activismo]
 comments: 
 ---
 Tras muchos días sin asomar por aquí, estas palabras me han pedido un lugar donde pasar a la posteridad y no he sabido encontrarles otro mejor:

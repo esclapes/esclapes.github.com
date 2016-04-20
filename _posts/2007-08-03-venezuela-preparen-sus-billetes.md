@@ -3,7 +3,7 @@ layout: single
 title: "Venezuela: preparen sus billetes"
 redirect_from: /node/61
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2007-08-03

@@ -3,7 +3,7 @@ layout: single
 title: "Mercatremol: Cooperativa de consumo en Alicante"
 redirect_from: /node/23
 categories:
-tags: decrecimiento,alimentación,alicante
+tags: [decrecimiento,alimentación,alicante]
 comments: 
 ---
 La entrada anterior, entre prisas y ofuscaciones, no me quedó muy clara. Quedó patente mi enfado con el Corte Inglés, pero no se entendía el porqué. Deshagamos hoy el entuerto.

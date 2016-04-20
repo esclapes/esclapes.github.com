@@ -3,7 +3,7 @@ layout: single
 title: "Asambleas de Parados y los Planes de Okupación"
 redirect_from: /node/33
 categories:
-tags: ideas,economía
+tags: [ideas,economía]
 comments: 
 ---
 Hace ya más de un año escuché a un amigo de [Decreixement](http://decreixement.net/) proponer la convocatoria de asambleas de parados para facilitar que surgieran grupos de autoempleo y autoproducción basados en el apoyo mutuo y la okupación de tierras en desuso.

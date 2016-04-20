@@ -3,7 +3,7 @@ layout: single
 title: "5 dias y 4 noches en el paraiso"
 redirect_from: /node/131
 categories:
-tags: 
+tags: []
 comments: 
     - author: javier
       date: 2005-07-26

@@ -3,7 +3,7 @@ layout: single
 title: "¿De qué va este rollo?"
 redirect_from: /node/2
 categories:
-tags: 
+tags: []
 comments: 
 ---
 De publicar algo cada dia durante todo 2010, de eso va. Y es una barbaridad o, al menos, eso me parece a mi.

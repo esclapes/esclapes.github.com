@@ -3,7 +3,7 @@ layout: single
 title: "Politicamente politico II"
 redirect_from: /node/113
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Ahora que estoy de viaje y me encuentro a menudo con fronteras, aduanas y policía con complejo de superioridad, he descubierto lo facil que nos resulta a nosotros conseguir un visado (siempre que pagues lo que te pidan, que no suele ser mucho) y la sensación de impotencia que produce necesitar un papel para cruzar una linea que en realidad no existe.  

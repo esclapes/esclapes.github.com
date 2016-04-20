@@ -3,7 +3,7 @@ layout: single
 title: "El Ligre Islenyo"
 redirect_from: /node/125
 categories:
-tags: 
+tags: []
 comments: 
 ---
 JA! JA!!  

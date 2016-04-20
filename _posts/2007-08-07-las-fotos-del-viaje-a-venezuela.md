@@ -3,7 +3,7 @@ layout: single
 title: "Las fotos del viaje a Venezuela"
 redirect_from: /node/60
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2007-08-07

@@ -3,7 +3,7 @@ layout: single
 title: "&quot;Usar recursos biológicos&quot; no es solo un principio de diseño"
 redirect_from: /node/19
 categories:
-tags: permacultura,plantas útiles,principios de diseño
+tags: [permacultura,plantas útiles,principios de diseño]
 comments: 
 ---
 ¿Por qué quitar a mano malas hierbas (también llamadas adventicias o hierbas desubicadas) cuando unas cuantas gallinas pueden hacer el trabajo por tí? Esa es la idea de este principio del permacultor (también llamado "voy-a-favor-de-la-naturaleza-y-no-en-su-contra").

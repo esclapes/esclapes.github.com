@@ -3,7 +3,7 @@ layout: single
 title: "El Corte Inglés contra el Señor de los Pollos"
 redirect_from: /node/22
 categories:
-tags: consumo,activismo
+tags: [consumo,activismo]
 comments: 
 ---
 ![](/images/posts/2010-01-21-el-corte-ingles-contra-el-senor-de-los-pollos/El-Corte-Ingles.jpg)

@@ -3,7 +3,7 @@ layout: single
 title: "Ultimos Dias en Estambul"
 redirect_from: /node/127
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Aunque el Ligre esta ya merodeando por las transitadas calles de Bangkok, no puede obviar en su blog los ultimos dias en Estambul. Con sus respectivas ultimas peripecias y experiencias.  

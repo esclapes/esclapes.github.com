@@ -3,7 +3,7 @@ layout: single
 title: "Viaje a Venezuela"
 redirect_from: /node/62
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Familia y amigos, no sé si sabréis que el ligre tiene planes de sobrevolar el atlantico y visitar Venzuela durante dos semanas. Buscando información sobre la situación política alli, he dado con esta interesante cita:  

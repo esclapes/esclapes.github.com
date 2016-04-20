@@ -3,7 +3,7 @@ layout: single
 title: "Semanas productivas, casi frenéticas"
 redirect_from: /node/49
 categories:
-tags: 
+tags: []
 comments: 
     - author: ξενιτεμένη
       date: 2008-10-29

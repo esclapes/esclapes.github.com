@@ -3,7 +3,7 @@ layout: single
 title: "Estoy pensando en cometer suicidio 2.0"
 redirect_from: /node/20
 categories:
-tags: tecnología,redes sociales
+tags: [tecnología,redes sociales]
 comments: 
     - author: maria
       date: 2010-01-18

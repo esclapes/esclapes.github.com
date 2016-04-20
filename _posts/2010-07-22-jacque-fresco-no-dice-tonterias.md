@@ -3,7 +3,7 @@ layout: single
 title: "Jacque Fresco no dice tonterias"
 redirect_from: /node/144
 categories:
-tags: video,ideas,otro mundo
+tags: [video,ideas,otro mundo]
 comments: 
     - author: http://www.csiaspb.org
       date: 2010-07-22

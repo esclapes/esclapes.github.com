@@ -3,7 +3,7 @@ layout: single
 title: "Os deseo menos muros en el 2011."
 redirect_from: /node/150
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Felices fiestas, con este mesaje de [YoMeBajo](http://yomebajo.wordpress.com/2010/12/21/navidades-sin-muros/).

@@ -3,7 +3,7 @@ layout: single
 title: "Un poquito de por favor!!"
 redirect_from: /node/115
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2005-09-25

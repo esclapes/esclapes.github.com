@@ -3,7 +3,7 @@ layout: single
 title: "Sombra no. Pero nubes muchas."
 redirect_from: /node/81
 categories:
-tags: 
+tags: []
 comments: 
     - author: Carlos
       date: 2006-08-01

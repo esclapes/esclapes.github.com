@@ -3,7 +3,7 @@ layout: single
 title: "The ASIAN SIDE (el lado asiatico)"
 redirect_from: /node/134
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Interesante documento...  

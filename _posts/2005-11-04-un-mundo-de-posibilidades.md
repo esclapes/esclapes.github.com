@@ -3,7 +3,7 @@ layout: single
 title: "Un Mundo de Posibilidades"
 redirect_from: /node/103
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2005-11-04

@@ -3,7 +3,7 @@ layout: single
 title: "La tortilla de la abuela"
 redirect_from: /node/57
 categories:
-tags: 
+tags: []
 comments: 
     - author: ξενιτεμένη
       date: 2007-12-17

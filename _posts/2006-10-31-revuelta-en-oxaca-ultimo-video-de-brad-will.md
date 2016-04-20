@@ -3,7 +3,7 @@ layout: single
 title: "Revuelta en Oxaca - Último Vídeo de Brad Will"
 redirect_from: /node/75
 categories:
-tags: 
+tags: []
 comments: 
 ---
 La descrición del video reza:  

@@ -3,7 +3,7 @@ layout: single
 title: "Con la comida no se juega."
 redirect_from: /node/148
 categories:
-tags: sander,corporaciones,alimentación,agricultura
+tags: [sander,corporaciones,alimentación,agricultura]
 comments: 
 ---
 A Sander le dejamos jugar y mucho.

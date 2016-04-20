@@ -3,7 +3,7 @@ layout: single
 title: "Reflexiones desde la sombra."
 redirect_from: /node/82
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2006-06-27

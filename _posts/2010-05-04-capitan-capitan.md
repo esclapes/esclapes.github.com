@@ -3,7 +3,7 @@ layout: single
 title: "Capitán, capitán..."
 redirect_from: /node/42
 categories:
-tags: 
+tags: []
 comments: 
     - author: Eduardo
       date: 2010-05-04

@@ -3,7 +3,7 @@ layout: single
 title: "Meditación bajo el agua"
 redirect_from: /node/120
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Para los interesados en el día a día más que en los rollos largos, comentar un para de actualidades.  

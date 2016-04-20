@@ -3,7 +3,7 @@ layout: single
 title: "Toys 4 Big Boys!!"
 redirect_from: /node/73
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Buenas a todos!!  

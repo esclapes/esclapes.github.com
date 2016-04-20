@@ -3,7 +3,7 @@ layout: single
 title: "Mi primer Sudoku"
 redirect_from: /node/59
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2007-08-08

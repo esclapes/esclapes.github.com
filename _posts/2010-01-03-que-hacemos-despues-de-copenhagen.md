@@ -3,7 +3,7 @@ layout: single
 title: "¿Qué hacemos después de Copenhagen?"
 redirect_from: /node/6
 categories:
-tags: 
+tags: []
 comments: 
 ---
 **Buscarnos la vida**. La única alternativa que nos queda es dejar de esperar a que los gobiernos hagan algo, y confiar en nuestra capacidad de cambiar el rumbo.

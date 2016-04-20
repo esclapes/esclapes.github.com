@@ -3,7 +3,7 @@ layout: single
 title: "Sinsabores desde la infancia"
 redirect_from: /node/13
 categories:
-tags: sander,personal,alimentación
+tags: [sander,personal,alimentación]
 comments: 
     - author: Un admirador anónimo
       date: 2010-01-10

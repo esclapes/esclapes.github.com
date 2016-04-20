@@ -3,7 +3,7 @@ layout: single
 title: "Reflexiones de un Pollo con Gripe(director&#39;s cut)"
 redirect_from: /node/104
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Aqui va un comentarista habitual, cuyos habituales comentarios han ganado mi respeto y el concurso al mejor comentario ever. Concurso que ni yo sabia que estaba en marcha, pero cuyo premio es la reproduccion del comentario sin censuras (ni mesura).  

@@ -3,7 +3,7 @@ layout: single
 title: "Más curiosidades (más breves)"
 redirect_from: /node/96
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Los tailandeses toman la cerveza con hielo. Yo sigo el 'allá donde fueres haz lo que vieres', pero no termina de convencerme la idea.  

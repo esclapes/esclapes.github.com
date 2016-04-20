@@ -3,7 +3,7 @@ layout: single
 title: "¿Por qué no hacemos nada?"
 redirect_from: /node/77
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Llevo ya tiempo queriendo escribir algo relacionado con la situación en Oriente Medio, y creo que ya ha llegado la hora. Demasiado tarde, sea dicho de paso, porque ya se han perdido muchas vidas de civiles inocentes a uno y otro lado del nuevo muro de la discordia.  

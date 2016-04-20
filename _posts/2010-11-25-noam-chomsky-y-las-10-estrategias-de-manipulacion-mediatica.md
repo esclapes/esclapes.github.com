@@ -3,7 +3,7 @@ layout: single
 title: "Noam Chomsky y las 10 Estrategias de Manipulación Mediática "
 redirect_from: /node/149
 categories:
-tags: chomsky,medios de comunicación
+tags: [chomsky,medios de comunicación]
 comments: 
 ---
 El lingüista Noam Chomsky, elaboró la lista de las “10 Estrategias de Manipulación” a través de los medios.

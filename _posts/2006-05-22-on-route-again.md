@@ -3,7 +3,7 @@ layout: single
 title: "On route, again!!"
 redirect_from: /node/84
 categories:
-tags: 
+tags: []
 comments: 
     - author: Carlos
       date: 2006-05-22

@@ -3,7 +3,7 @@ layout: single
 title: "Cómo me inicié en el online marketing"
 redirect_from: /node/45
 categories:
-tags: personal
+tags: [personal]
 comments: 
 ---
 Revisando una libreta he encontrado las notas con que preparé mi llamada a Karina Curley (un máquina de la investigación de mercados online) después de haberle enviado mi currículum unos días antes. El puesto ofertado era el de su propia baja de maternidad como European Research Manager en [Adlink Media](http://www.adlinkmedia.net/).

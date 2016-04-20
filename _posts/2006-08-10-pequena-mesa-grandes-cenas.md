@@ -3,7 +3,7 @@ layout: single
 title: "Pequeña mesa. Grandes cenas."
 redirect_from: /node/78
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2006-08-10

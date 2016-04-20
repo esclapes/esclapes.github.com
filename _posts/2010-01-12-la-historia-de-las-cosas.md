@@ -3,7 +3,7 @@ layout: single
 title: "La historia de las cosas"
 redirect_from: /node/15
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Este es un vídeo clásico de introducción al consumo responsable. Una explicación clara y sencilla del modelo productivo imperante en nuestra sociedad globalizada y las consecuencias de ese modelo. El formato es muy ameno y los conceptos sencillos, aunque el doblaje argentino queda un poco estridente, seguro que gusta más al público español que unos subtítulos.

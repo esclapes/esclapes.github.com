@@ -3,7 +3,7 @@ layout: single
 title: "Que venga el coco"
 redirect_from: /node/10
 categories:
-tags: 
+tags: []
 comments: 
 ---
 (video de suspense)

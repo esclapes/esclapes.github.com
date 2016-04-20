@@ -3,7 +3,7 @@ layout: single
 title: "El Ligre os desea Feliz Navidad"
 redirect_from: /node/56
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Espero que la alegría sea vuestro referente estos días... justo me ha llegado un mail de una amiga recitando una poesia sobre como defenderla:  

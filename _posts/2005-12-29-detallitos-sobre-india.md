@@ -3,7 +3,7 @@ layout: single
 title: "Detallitos sobre India"
 redirect_from: /node/91
 categories:
-tags: 
+tags: []
 comments: 
     - author: Anonymous
       date: 2005-12-29

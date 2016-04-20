@@ -3,7 +3,7 @@ layout: single
 title: "Los tontos útiles, y como evitar serlo"
 redirect_from: /node/9
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Los tontos útiles son personas que de forma honesta apoyan una iniciativa que está siendo utilizada con fines electoralistas. Es decir, son aquellos que dedican tiempo y esfuerzo a hacer realidad una idea que les parece deseable, mientras que otros aprovechan toda esa energía para erosionar al gobierno desde la oposición (o viceversa).

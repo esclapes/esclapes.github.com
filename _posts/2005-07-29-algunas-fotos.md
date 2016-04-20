@@ -3,7 +3,7 @@ layout: single
 title: "Algunas fotos"
 redirect_from: /node/129
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Ante la peticion popular y ante las posibilidades tecnologicas que nos brinda el barrio de Kadikoy, me despido de Estambul con una seleccion de fotografias... es dificil seleccionar entre trescientas.  

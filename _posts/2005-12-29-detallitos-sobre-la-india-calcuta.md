@@ -3,7 +3,7 @@ layout: single
 title: "Detallitos sobre la India (Calcuta)"
 redirect_from: /node/92
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Principalmente la ciudad es Caos... Con su respectivo orden subyacente.  

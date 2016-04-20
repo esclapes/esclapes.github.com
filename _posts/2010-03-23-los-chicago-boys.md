@@ -3,7 +3,7 @@ layout: single
 title: "Los Chicago Boys"
 redirect_from: /node/38
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Estoy totalmente metido en un nuevo libro: _La doctrina del shock_ de Naomi Klein, que ofrece una perspectiva muy interesante (y sobrecogedora) de la expansión de las políticas de libre mercado a lo largo y ancho del planeta.

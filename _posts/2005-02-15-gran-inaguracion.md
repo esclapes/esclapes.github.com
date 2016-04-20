@@ -3,7 +3,7 @@ layout: single
 title: "GRAN INAGURACIÓN"
 redirect_from: /node/141
 categories:
-tags: 
+tags: []
 comments: 
     - author: ezz
       date: 2005-02-15

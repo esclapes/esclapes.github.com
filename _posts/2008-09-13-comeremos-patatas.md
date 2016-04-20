@@ -3,7 +3,7 @@ layout: single
 title: "Comeremos patatas"
 redirect_from: /node/52
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Hijo de

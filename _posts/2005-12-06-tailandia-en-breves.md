@@ -3,7 +3,7 @@ layout: single
 title: "Tailandia en Breves"
 redirect_from: /node/98
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Muchas cosas pasan, algunas divertidas y otras menos. Y muchas veces me conecto a internet y me desconecto sin haber escrito ni una palabra en este blog, y no por no tener cosas que contar, sino por no saber donde empezar.  

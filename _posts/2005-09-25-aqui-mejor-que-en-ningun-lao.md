@@ -3,7 +3,7 @@ layout: single
 title: "Aquí, mejor que en ningún Lao"
 redirect_from: /node/116
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Sorpresa, sorpresa... la que nos hemos llevado al llegar a la capital de esta antigua colonia francesa, que no obtuvo más beneficio del país de Antoine que la gloriosa baguette (el mejor invento gabacho después de la liberté, egalite,...)  

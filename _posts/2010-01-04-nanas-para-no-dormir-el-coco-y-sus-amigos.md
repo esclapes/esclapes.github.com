@@ -3,7 +3,7 @@ layout: single
 title: "Nanas para no dormir. El coco y sus amigos"
 redirect_from: /node/7
 categories:
-tags: 
+tags: []
 comments: 
 ---
 > Duérmete niño duérmete ya, que viene el coco y te comerá.

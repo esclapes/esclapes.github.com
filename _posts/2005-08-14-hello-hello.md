@@ -3,7 +3,7 @@ layout: single
 title: "Hello!! Hello!!"
 redirect_from: /node/122
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Hello. Esa es la palabra magica aqui.  

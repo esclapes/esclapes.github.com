@@ -3,7 +3,7 @@ layout: single
 title: "5 razones para cambiar los planes para la nueva estación de Alicante"
 redirect_from: /node/5
 categories:
-tags: 
+tags: []
 comments: 
 ---
 El plan de enterrar las vías que llegan a la estación de Alicante lleva ya tiempo sonando, pero hay cinco muy buenas razones para cambiar esos planes a favor de la fantástica propuesta de la [Plataforma Comarcal por la Movilidad (PCM)](http://pcmovilidad.blogspot.com/2009/02/reclama-el-gran-parque-central-de.html "Plan para la Estación Intermodal") para sacar la estación hasta la Vía Parque:

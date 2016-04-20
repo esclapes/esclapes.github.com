@@ -3,7 +3,7 @@ layout: single
 title: "Operación salida"
 redirect_from: /node/89
 categories:
-tags: 
+tags: []
 comments: 
 ---
 De esto hace ya unos 15 días, pero no deja de tener de un cierto interés.  

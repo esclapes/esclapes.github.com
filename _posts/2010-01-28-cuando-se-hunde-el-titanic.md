@@ -3,7 +3,7 @@ layout: single
 title: "Cuando se hunde el Titanic"
 redirect_from: /node/26
 categories:
-tags: decrecimiento,permacultura
+tags: [decrecimiento,permacultura]
 comments: 
     - author: Un admirador anónimo
       date: 2010-01-28

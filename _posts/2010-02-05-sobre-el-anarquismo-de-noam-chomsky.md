@@ -3,7 +3,7 @@ layout: single
 title: "Sobre el anarquismo, de Noam Chomsky"
 redirect_from: /node/29
 categories:
-tags: 
+tags: []
 comments: 
     - author: Un admirador anónimo
       date: 2010-02-05

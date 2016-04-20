@@ -3,7 +3,7 @@ layout: single
 title: "Detalles varios."
 redirect_from: /node/138
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Para los interesados en las curiosidades y detalles cotidianos:  

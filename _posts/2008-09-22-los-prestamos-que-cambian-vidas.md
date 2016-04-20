@@ -3,7 +3,7 @@ layout: single
 title: "Los prestamos que cambian vidas"
 redirect_from: /node/51
 categories:
-tags: 
+tags: []
 comments: 
 ---
 <div xmlns="http://www.w3.org/1999/xhtml">Familia y Amigos,  

@@ -3,7 +3,7 @@ layout: single
 title: "En 2010 ciberligre se muda esclap.es"
 redirect_from: /node/47
 categories:
-tags: 
+tags: []
 comments: 
 ---
 Buenas, ciberligre lleva tiempo un poco parado a pesar de todas mis buenas intenciones.  

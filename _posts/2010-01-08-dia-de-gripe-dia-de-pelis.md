@@ -3,7 +3,7 @@ layout: single
 title: "Día de gripe, día de pelis."
 redirect_from: /node/11
 categories:
-tags: 
+tags: []
 comments: 
     - author: tu santa hermana!
       date: 2010-01-08
