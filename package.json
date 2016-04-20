@@ -1,0 +1,30 @@
+{
+  "name": "esclapes.github.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "toMarkdown.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "dive": "^0.4.0",
+    "moment": "^2.10.3",
+    "request": "^2.55.0",
+    "slog": "^0.1.0",
+    "slugg": "^0.1.2",
+    "swig": "^1.4.2",
+    "to-markdown": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esclapes/esclapes.github.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esclapes/esclapes.github.com/issues"
+  },
+  "homepage": "https://github.com/esclapes/esclapes.github.com#readme"
+}
