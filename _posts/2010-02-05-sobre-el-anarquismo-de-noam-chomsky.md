@@ -12,7 +12,7 @@ comments:
 ---
 Me estoy leyendo un tratado sobre el anarquismo de Chomsky y, aunque no llevo ni 50 páginas, aquí van algunas de las ideas:
 
-*   ![](/images/posts/2010-02-05-sobre-el-anarquismo-de-noam-chomsky/sobreAnarq-Chomsky.jpg)La libertad es la carcaterística que diferencia al ser humano de los animales. A pesar de tener un instinto aún vivo, el ser humano puede tomarse la libertad de hacer otra cosa.
+*   ![](/images/posts/2010-02-05-sobre-el-anarquismo-de-noam-chomsky/sobreAnarq-Chomsky.jpg)
 *   Considerar que una persona o sociedad no es suficientemente "madura" para la libertad no es más que una excusa para justificar una autoridad impuesta sobre otros mediante la fuerza. La libertad es, en realidad, un requisito para alcanzar esa madurez. Los que piensan que la falta de autoridad solo provocará violencia y muerte tienen en muy baja estima a su propia especie.
 *   Las leyes y normas "civilizadas" son tan solo una herramienta para evitar que, el poder (y riqueza) que unos pocos acumularon por la fuerza, se pueda retomar por la misma fuerza.
 

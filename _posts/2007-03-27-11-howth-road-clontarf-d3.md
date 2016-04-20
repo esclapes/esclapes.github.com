@@ -26,18 +26,18 @@ Un claro ejemplo, aún diría más, un modelo, de la "Randon Family"
 
 Os dejo con las fotos del escenario en que tendrá lugar el próximo experimento sociologico (en inglés con subtitulos) que harán de mi, la persona que mi madre siempre ha querido (evitar**).  
 
-<div style="text-align: center;">[![](/images/posts/2007-03-27-11-howth-road-clontarf-d3/cocina.jpeg)](http://bp1.blogger.com/_qfoSFPTIiCo/RghOpFk7eMI/AAAAAAAAAB4/kRc1HJn17Zs/s1600-h/cocina.jpeg)  
+<div style="text-align: center;">![](/images/posts/2007-03-27-11-howth-road-clontarf-d3/cocina.jpeg)  
 </div>
 
-<div style="text-align: center;">[![](/images/posts/2007-03-27-11-howth-road-clontarf-d3/cuarto.jpeg)](http://bp2.blogger.com/_qfoSFPTIiCo/RghOpVk7eNI/AAAAAAAAACA/TiEGIFl4wVc/s1600-h/cuarto.jpeg)  
+<div style="text-align: center;">![](/images/posts/2007-03-27-11-howth-road-clontarf-d3/cuarto.jpeg)  
 </div>
 
-<div style="text-align: center;">[![](/images/posts/2007-03-27-11-howth-road-clontarf-d3/livingroom.jpeg)](http://bp2.blogger.com/_qfoSFPTIiCo/RghOpVk7eOI/AAAAAAAAACI/Rc8iyWDZU40/s1600-h/livingroom.jpeg)  
+<div style="text-align: center;">![](/images/posts/2007-03-27-11-howth-road-clontarf-d3/livingroom.jpeg)  
 </div>
 
 <div style="text-align: center;">
 
-<div style="text-align: left;">[![](/images/posts/2007-03-27-11-howth-road-clontarf-d3/livingroom2.jpeg)](http://bp3.blogger.com/_qfoSFPTIiCo/RghOplk7ePI/AAAAAAAAACQ/IeNA39bupRE/s1600-h/livingroom2.jpeg)  
+<div style="text-align: left;">![](/images/posts/2007-03-27-11-howth-road-clontarf-d3/livingroom2.jpeg)  
 Estos son la cocina (obviamente) de tamaño proporcional a las cenas que, espero, nos marcaremos; nuestro futuro nido de amor, y dos de las tres salas comunes (nidos de amor cuando no hay compañeros en casa).  
 
 ------------------------------------------------------------------------------------------------  

@@ -23,6 +23,6 @@ Nunca tantos habían sido incomunicados por tan pocos”
 de _Eduardo Galeano_  
 Haz clic en la imagen para saber más
 
-[![](/images/posts/2010-02-28-la-incomunicacion/Informate%20de%20verdad.jpg)](http://docs.google.com/present/view?id=dg8827p8_76gn56chfg "La incomunicación")
+![](/images/posts/2010-02-28-la-incomunicacion/Informate%20de%20verdad.jpg)
 
 </div>

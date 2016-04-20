@@ -40,7 +40,7 @@ Arrancamos con muchas expectativas de vieje autentico. Superadas por el auténti
 
 - Ocho horas atascados en el barro, intentando hacer mil locuras y a punto de volcar el bus (con nosotros fuera).  
 
-[![](/images/posts/2005-10-13-como-los-locales/PIC_0405.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/PIC_0405.jpg)  
+![](/images/posts/2005-10-13-como-los-locales/PIC_0405.jpg)  
 
 Momento desesperación: "Nos lo podia haber dicho antes". "Que bien esto del transporte local". "Qué hacemos?". "Nos vamos con el proximo coche con extranjeros que pase, o nos quedamos con los locales, o nos vamos andando, al final nosotros no tenemos que cargar con 200 kilos de pintura??". "Nos quedamos con los locales"  
 
@@ -48,4 +48,4 @@ Y éxito. Con la ayuda de otro autobús y nosotros con una cuerda superamos la z
 
 Como los locales!!  
 
-[![](/images/posts/2005-10-13-como-los-locales/PIC_0409.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/PIC_0409.jpg)
+![](/images/posts/2005-10-13-como-los-locales/PIC_0409.jpg)

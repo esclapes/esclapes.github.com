@@ -14,5 +14,5 @@ Por mi cumpleaños (hace ya meses) me regalaron el juego "Sudoku para idiotas".
 
 Tarde más de 5 meses en empezar uno y, aunque me da un poco de vergüenza reconocerlo, tardé casi dos días (a ratos) en hacer el primero, que se supone es el más fácil de la caja.  
 
-[![](/images/posts/2007-08-08-mi-primer-sudoku/2007-07-11+Mi+primer+Sudoku+001.jpg)](http://bp2.blogger.com/_qfoSFPTIiCo/RrnKlkXVMNI/AAAAAAAAAD8/To-zkwogGnQ/s1600-h/2007-07-11+Mi+primer+Sudoku+001.jpg)  
+![](/images/posts/2007-08-08-mi-primer-sudoku/2007-07-11+Mi+primer+Sudoku+001.jpg)  
 A lo mejor tengo que borrar lo de Ingeniero Técnico del currículum.

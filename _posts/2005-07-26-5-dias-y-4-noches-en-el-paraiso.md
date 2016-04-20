@@ -20,11 +20,11 @@ Hemos estado durmiendo en una tienda tunel de 6 euros comprada en un Carrefour, 
 
 El Camping esta, por lo que se ve muy enraizado en la cultura turca, un monton de familias eran felices con quemaduras de tercer grado. Un camping turco se parece mas a un campo de refugiados que a un camping europeo. Se llevan hasta la estufa para calentar el Chai.  
 
-[![](/images/posts/2005-07-26-5-dias-y-4-noches-en-el-paraiso/PIC_0037.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/PIC_0037.jpg)  
+![](/images/posts/2005-07-26-5-dias-y-4-noches-en-el-paraiso/PIC_0037.jpg)  
 
 Las chicas mas tradicionales se banyan vestidas de negro hasta arriba, y las menos con pantalon corto y camiseta. Se ven algunos banyadores pero ningun top less.  
 
 Esta experiencia ha sido instructiva a la vez que relajante. Casi casi un paraiso, si no fuera por los coches (uno por familia), la basura (bastante por familia) y los bichos (yo tengo unas 10 picaduras a pesar del collar anti pulgas que me dio la hermana de Elena)  
 
-[![](/images/posts/2005-07-26-5-dias-y-4-noches-en-el-paraiso/PIC_0086.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/PIC_0086.jpg)  
+![](/images/posts/2005-07-26-5-dias-y-4-noches-en-el-paraiso/PIC_0086.jpg)  
 Ya estamos de nuevo en Estambul, y ahora que la conocemos un poco se ve con otros ojos, pero sigue siendo una ciudad fascinante.

@@ -22,5 +22,4 @@ comments:
 
 **<span style="font-weight: normal;">El chiste puede que sea malo, pero esta foto compensa:</span>**
 
-**<span style="font-weight: normal;">![](/images/posts/2010-05-04-capitan-capitan/P1040970.JPG)  
-</span>**
+**<span style="font-weight: normal;">![](/images/posts/2010-05-04-capitan-capitan/P1040970.JPG)</span>**

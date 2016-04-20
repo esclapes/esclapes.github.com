@@ -10,7 +10,7 @@ Interesante documento...
 
 Hemos dormido durante tres noches en la casa de una familia clasicamente turca, bellisimas personas y con buenisimas intenciones. La madre y la hija nos son desconociadas porque estan de vacaciones, pero el padre y el hijo ya dicen mucho.  
 [](http://photos1.blogger.com/blogger/4149/854/1600/IMG_00962.jpg)  
-[![](/images/posts/2005-07-25-the-asian-side-el-lado-asiatico/IMG_00964.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/IMG_00964.jpg)  
+![](/images/posts/2005-07-25-the-asian-side-el-lado-asiatico/IMG_00964.jpg)  
 El padre, Ali, no habla nada de ingles, pero es tan expresivo que antes de que llegara el interprete de turno, el hijo, ya sabiamos la edad de su descendencia, lo que estudiaban y que las mujeres estaban de playita con algn familiar cercano. Ademas de expresivo, es un cabeza de familia de los de libro, que decide hasta lo que deben hacer los invitados (nosotros), y disfruta mucho gritando mi nombre acompanyado de largas frases en turco ante las que nosotros solo podemos sonreir y decir _evet_ (si) Su hobbie, a parte de hacer unos Simit bueinisimos, es invitarnos a Chai (el te de por aqui) continuamente.  
 
 El hijo, Mehmet, es de nuestra edad, pero dejo de estudiar durante 6 anyos para trabajar con su padre (de cuatro de la manyana a bien entrada la tarde) lo que dejo bastante atrasados su nivel de ingles, que ha recuperado este curso pasado y mejorado con nosotros, y sus relaciones sociales (o eso nos parece) Sin embargo su buena intencion y su receta de spaghetti con yogurth lo ha situado entre nuestros mejores amigos turcos.  

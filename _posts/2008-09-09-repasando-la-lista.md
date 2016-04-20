@@ -14,4 +14,4 @@ Tanto he cumplido que, como ya anuncié entonces, la edición de mi vida en Barc
 
 Prometo [repasar la lista](http://ciberligre.blogspot.com/2008/02/mi-vida-barcelona-edition.html) y mi época en Barcelona durante las próximas semanas. De momento, aquí os dejo con una de las perspectivas que me quedan de la ciudad.  
 
-[![](/images/posts/2008-09-09-repasando-la-lista/barcelona+desde+aurora.jpg)](http://3.bp.blogspot.com/_qfoSFPTIiCo/SMZvgz2PpNI/AAAAAAAAA2k/1X1cecgnIrc/s1600-h/barcelona+desde+aurora.jpg)
+![](/images/posts/2008-09-09-repasando-la-lista/barcelona+desde+aurora.jpg)

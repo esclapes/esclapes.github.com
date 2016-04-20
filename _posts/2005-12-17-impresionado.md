@@ -18,7 +18,7 @@ Los más importantes han sido los choques emocionales.
 
 El primer día, ya que me quedé flipado con la ciudad en si. Los policias, uniformados en blanco (muy) sucio, dirigen el tráfico con palos de madera. Los coches (de pelicula) pitan, no para evitar un choque, sino para advertir que estan en movimiento. Los niños en los semaforos no limpian cristales porque no tienen brazos. No se puede distinguir entre muy pobres, pobres, y no tan pobres. Decenas de personas se duchan en salidas de agua en cada calle. En fin, indescriptible.  
 
-[![](/images/posts/2005-12-17-impresionado/2.jpg)](http://esclap.es/sites/esclap.es/files/images/2.jpg)  
+![](/images/posts/2005-12-17-impresionado/2.jpg)  
 El segundo día, empecé a disfrutar de los colores, la vida y la energia de la ciudad. Pero por la tarde fuimos a un centro para niños disminuidos y allí llegó el segundo choque. Los niños estan mejor que en la calle, pero no estan bien. Las hermanas los atienden y los voluntaros les dedican su tiempo, pero la imagen no deja de ser agridulce. Todas esas 'cunas' una al lado de la otra con niños que no pueden ni cambiar de postura. Demasiado. Que coño pasa aquí para que las familias rechacen a los hijos enfermos?  
 
 Tercer día. Por a mañana tranquilos de nuevo, pero no contentos, nos vamos a un centro para moribundos. El primero que fundó Santa Teresa de Calcuta. Supuestamente, iba a dedicar unas horas somo voluntario, pero más bien, pasé la tarde como visitante en medio de una mezcla de sufrimiento y dedicación. Entre que no sabes de que va el cuento, ni conoces el sitio, ni a la gente (confundí a un trabajador con un moribundo), ni la gente te conoce a ti, y sumado al impacto del momento, me encontré allí perdido, ridiculo e inutil.  

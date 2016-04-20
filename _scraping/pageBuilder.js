@@ -4,7 +4,8 @@ var toMd 		= require('to-markdown'),
     fs      = require("fs"),
     url     = require("url"),
     path    = require("path"),
-    http    = require("http");
+    http    = require("http"),
+    util    = require('util');
 
 var Page = function(file){
     this._$ = cheerio.load(fs.readFileSync(file), { ignoreWhitespace: true });
@@ -45,8 +46,17 @@ Page.prototype.parseContent = function(){
     });
     // copy local images
     raw.find('img').each(function() {
-      newSrc = self.copyImage(self._$( this ).attr('src'));
-      self._$( this ).attr('src', newSrc)
+      var img = self._$( this );
+      newSrc = self.copyImage(img.attr('src'));
+      img.attr('src', newSrc);
+
+      if(img.parent().is('a')) {
+        self._$( this ).parent().replaceWith(img);
+      }
+      else {
+        self._$( this ).replaceWith(img);
+      }
+      //console.log(util.inspect(self._$( this ), { depth: null }));
     });
 		return raw.html() ? toMd(raw.html()) : '';
 }

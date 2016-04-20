@@ -6,7 +6,7 @@ categories:
 tags: consumo,activismo
 comments: 
 ---
-![](/images/posts/2010-01-21-el-corte-ingles-contra-el-senor-de-los-pollos/El-Corte-Ingles.jpg)Ya me sabe mal que las grandes superficies vendan productos ecológicos, porque hacen de ellos una linea más de productos para un segmento de consumidores eco-ncienciados y pu-dientes, cuando lo que tendrían que hacer (si de verdad les importara el tema, ya se ve que no) es vender EXCLUSIVAMENTE productos que protejan el medio ambiente y a las personas (sus consumidores).
+![](/images/posts/2010-01-21-el-corte-ingles-contra-el-senor-de-los-pollos/El-Corte-Ingles.jpg)
 
 Pero lo que no estoy dispuesto a permitir es que el día que deciden sacar esa linea de productos lo hagan de manera que me afecte a mi directamente. Yo (todavía) no he ido a joderles el negocio a ellos, así que al menos que nos dejen en paz. La explicación de lo sucedido la da Amador mejor que yo:
 

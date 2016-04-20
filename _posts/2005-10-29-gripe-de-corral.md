@@ -20,6 +20,6 @@ Con lo que a mi me gustan las ideas y proyectos globales, el tema Pandemia (much
 
 Pero que no se preocupe nadie!! Nuestro propio miedo y el miedo de seres queridos que nos ha llegado por e-mail han dado sus frutos y hemos decidido tomar precauciones. Como no quedaban vacunas, hemos tenido que recurrir a las tiendas de material de la Segunda Guerra Mundial.  
 
-[![](/images/posts/2005-10-29-gripe-de-corral/IMG_0004.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/IMG_0004.jpg)  
+![](/images/posts/2005-10-29-gripe-de-corral/IMG_0004.jpg)  
 
 Ya veis, amigos, que no teneis por que preocuparos, el Ligre esta más que a salvo.

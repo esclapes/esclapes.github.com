@@ -6,7 +6,7 @@ categories:
 tags: 
 comments: 
 ---
-[![](/images/posts/2005-09-14-breath-in-breath-out/Meditation%20Hall.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/Meditation%20Hall.jpg)  
+![](/images/posts/2005-09-14-breath-in-breath-out/Meditation%20Hall.jpg)  
 
 Inspirar. Espirar. Inspirar. Espirar. Eso es, fundamentalmente, lo que se hace en un retiro silencioso de 10 dias. Prestar atención a la respiración. La experiencia a sido muy interesante. Mucho. Y, quizá, única en mi vida. Aquí vienen los detalles:  
 
@@ -15,7 +15,7 @@ El lugar, el monasterio de Suan Mokkh, fundado por Buddhadasa Bhikkhu, el colega
 La verdad es que la hermita en la que hemos estado es una pasada. Naturaleza por todas partes en forma de aguas termales, serpientes, lagartos, mariposas, arboles, tormentas, muchos insectos en general y hormigas en especial.  
 
 La habitación (o celda), acogedora. Bueno, todo lo acogedora que puede resultar una cama de cemento, con una esterilla de caña, una almohada de madera (vease tronco) y una mosquitera. Algunos pensareis que estoy de coña, pero no. La lamohada era de madera (podeis ver la foto), y la cama de cemento. Una suite.  
-[![](/images/posts/2005-09-14-breath-in-breath-out/Almohada.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/Almohada2.jpg)  
+![](/images/posts/2005-09-14-breath-in-breath-out/Almohada.jpg)  
 
 El horario, estricto. Despertá a las 4 de la mañana y a la cama a las 9.30 de la noche. Diecisiete horas y media que se rellenaban con: lectura matutina, meditación, yoga, charla-meditación, desayuno, tareas, descanso, charla sobre budhismo, meditación, más meditación, comida, descanso, charla sobre mediatción, meditación, meditación y meditación, te, descanso, meditación y a dormir. Apetece, eh??  
 
@@ -34,5 +34,5 @@ Por lo que he experimentado, meditar viene a ser centrarse en una sola cosa, en 
 
 Yo me quedé en no dormirme, pero aún así, como ya he dicho, la cosa no estuvo mal. De hecho estos dias seguimos levantandonos temprano, aunque no tanto y empezando el dia con el saludo al sol (yoga) y algo de meditación.  
 
-[![](/images/posts/2005-09-14-breath-in-breath-out/Meditadores.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/Meditadores.jpg)  
+![](/images/posts/2005-09-14-breath-in-breath-out/Meditadores.jpg)  
 Tranquis!! No me he vuelto loco... solo atesoro vivencias.

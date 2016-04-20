@@ -24,4 +24,4 @@ Como cosa buena, decir que los colores y la vida son fantasticos y el ferrocarri
 
 Me voy que ya es hora.  
 
-[![](/images/posts/2005-12-29-detallitos-sobre-india/8.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/8.jpg)
+![](/images/posts/2005-12-29-detallitos-sobre-india/8.jpg)

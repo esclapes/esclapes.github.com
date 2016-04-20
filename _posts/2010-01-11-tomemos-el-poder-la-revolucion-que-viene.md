@@ -6,7 +6,7 @@ categories:
 tags: revolución,movimientos sociales
 comments: 
 ---
-![Únete a la Revolución](/images/posts/2010-01-11-tomemos-el-poder-la-revolucion-que-viene/civ_revolution.jpg)Comentaba el otro día, usando la voz de Gabilondo, que tras [la farsa de Copenhagen hay que mirar hacia los movimientos sociales](http://esclap.es/node/6 "¿Qué hacemos después de Compenhagen?") para ver algo de luz.
+Comentaba el otro día, usando la voz de Gabilondo, que tras [la farsa de Copenhagen hay que mirar hacia los movimientos sociales](http://esclap.es/node/6 "¿Qué hacemos después de Compenhagen?")![Únete a la Revolución](/images/posts/2010-01-11-tomemos-el-poder-la-revolucion-que-viene/civ_revolution.jpg)
 
 Sin embargo, no podemos caer en el mismo error que hemos cometido con los gobiernos/estados y esperar a que los movimientos sociales nos arreglen las cosas. Eso no va a pasar.
 

@@ -6,6 +6,6 @@ categories:
 tags: 
 comments: 
 ---
-[![](/images/posts/2010-03-04-entrevista-sobre-la-contra-campana-de-todxs/estoloarreglamosentretodxs-banner-fb.jpg)](http://todxs.posterous.com/nos-han-hecho-una-entrevista-sobre-la-contra)
+![](/images/posts/2010-03-04-entrevista-sobre-la-contra-campana-de-todxs/estoloarreglamosentretodxs-banner-fb.jpg)
 
 click en la imagen

@@ -12,7 +12,7 @@ comments:
 ---
 Llevo dos dias enfermo en casa, y esperaba ir mañana al trabajo bajo un lindo sol veraniego... pero no.  
 
-[![](/images/posts/2007-06-19-esperanzador/pronostico+lluvia.jpg)](http://bp3.blogger.com/_qfoSFPTIiCo/RneeZ0oLIWI/AAAAAAAAADI/61V3pbaTjEA/s1600-h/pronostico+lluvia.jpg)  
+![](/images/posts/2007-06-19-esperanzador/pronostico+lluvia.jpg)  
 Con este pronóstico, no se si me voy a poner bueno...  
 
 Y el huertecillo también se resiente. ¿A quién se le ocurre plantar tomates en Dublin?

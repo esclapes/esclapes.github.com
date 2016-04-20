@@ -18,13 +18,13 @@ Algunos medicos recomiendan el banyo en el Ganges, a pesar de sus mil veces mas 
 
 Por las manyanas y por las tardes, el rio se llena de barcas con turistas echando fotos, parece el lago del retiro. Esto es una suerte para los pescadores, porque con la mierda que tiene el rio no creo que queden peces.  
 
-[![](/images/posts/2005-12-29-detallitos-sobre-la-india-varanasi/4.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/4.jpg)  
+![](/images/posts/2005-12-29-detallitos-sobre-la-india-varanasi/4.jpg)  
 
-[![](/images/posts/2005-12-29-detallitos-sobre-la-india-varanasi/IMG_0011.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/IMG_0011.jpg)  
+![](/images/posts/2005-12-29-detallitos-sobre-la-india-varanasi/IMG_0011.jpg)  
 
 Las calles grandes son un infierno 'estilo de calcuta' (aunque aqui, por lo menos, los tios tiran del carrito en bici) Pero las callejuelas tienen mucho encanto y mucha vida. Por supuesto, no falta alguna que otra moto con su ininterrumpida pitada (si no, esto no seria India).  
 
-[![](/images/posts/2005-12-29-detallitos-sobre-la-india-varanasi/5.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/5.jpg)  
+![](/images/posts/2005-12-29-detallitos-sobre-la-india-varanasi/5.jpg)  
 
 La ciudad esta llena de templos (de todas las religiones) y los rituales (de todo tipo) se repiten en cada esquina. Las campanas, los cantos y las llamadas al rezo de las mezquitas son la banda sonora diaria.  
 
@@ -32,4 +32,4 @@ Aqui las vacas si son sagradas, cosa que tiene mucho encanto. A pesar de eso, la
 
 Ademas de vacas (cabras, pollos, ratas,...) la ciudad esta plagada de monos. Esto tambien tiene encanto. A menos que seas un vendedor de platanos.  
 
-[![](/images/posts/2005-12-29-detallitos-sobre-la-india-varanasi/7.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/7.jpg)
+![](/images/posts/2005-12-29-detallitos-sobre-la-india-varanasi/7.jpg)

@@ -16,7 +16,7 @@ El ambiente que rodea al buceo, es bastante tranqui, como todos los ambientes re
 
 Por el otro lado, esta también el rollito DiveMaster, que vine a ser cuando el nitrogeno que tu cuerpo ha absorbido te afecta a la cabeza (en sentido figurado) y empiezas a creerte muy especial. La verdad es que en tres días no te da tiempo para quemarte por esto, pero si da tiempo a hablar con gente que lleva tres meses y ya estan un poco hartos.  
 
-[![](/images/posts/2005-09-19-buceando-que-es-gerundio/Ju%20y%20yo4.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/Ju%20y%20yo4.jpg)  
+![](/images/posts/2005-09-19-buceando-que-es-gerundio/Ju%20y%20yo4.jpg)  
 
 Nuestro curso ha sido facil y divertido. La teoría se la pasan un poco por el forro, pero te dan las lecciones básicas para disfrutar de inmersiones seguras. Hemos hecho cuatro inmersiones, la última la más espectacular.  
 
@@ -24,4 +24,4 @@ En el grupo eramos una española, dos que hablaban ingles, la Ju y yo. El monito
 
 La isla, a parte de los fondos marinos, era también bastante encantadora... más tranquila que otras islas, pero con buena comida y gente simpatica (todos buceadores o en proceso de serlo) Las playas solo se dejaban ver con la marea baja, pero no por tímidas eran menos bonitas. Los amaneceres y los atardeceres, de pelicula.  
 
-[![](/images/posts/2005-09-19-buceando-que-es-gerundio/BuddyTeam3.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/BuddyTeam3.jpg)
+![](/images/posts/2005-09-19-buceando-que-es-gerundio/BuddyTeam3.jpg)

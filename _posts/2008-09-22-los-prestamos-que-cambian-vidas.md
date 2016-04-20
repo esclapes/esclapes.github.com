@@ -12,7 +12,7 @@ Ya hace casi dos años desde aquellas navidades en las que os di un poco la bras
 
 Como sabéis, desde diciembre del año pasado, el dinero ha sido prestado en forma de [microcreditos para distintos proyectos](http://www.kiva.org/lender/ciberligre) a lo largo y ancho del planeta.  
 
-[![](/images/posts/2008-09-22-los-prestamos-que-cambian-vidas/mapakiva.jpg)](http://3.bp.blogspot.com/_qfoSFPTIiCo/SNeL7jxz_nI/AAAAAAAAA2s/xFFdSwyMZNo/s1600-h/mapakiva.jpg)  
+![](/images/posts/2008-09-22-los-prestamos-que-cambian-vidas/mapakiva.jpg)  
 Parte de este dinero ya ha sido devuelto así que os propongo una visita a [kiva](http://www.kiva.org/) para que me digais que proyectos os gustaría financiar.  
 
 Dejad un comentario con el proyecto que más os guste, y le prestaremos 50$. Espero vuestras respuestas.  

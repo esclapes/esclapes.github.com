@@ -12,5 +12,5 @@ No todo en este viaje es cursos y cosas raras... desde el retiro y hasta el curs
 
 Aqui esta la prueba.  
 
-[![](/images/posts/2005-09-22-vida-social-mucha-vida/PandillaPgnan.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/PandillaPgnan.jpg)  
-[![](/images/posts/2005-09-22-vida-social-mucha-vida/sunset.jpg)](http://photos1.blogger.com/blogger/4149/854/1600/sunset.jpg)
+![](/images/posts/2005-09-22-vida-social-mucha-vida/PandillaPgnan.jpg)  
+![](/images/posts/2005-09-22-vida-social-mucha-vida/sunset.jpg)

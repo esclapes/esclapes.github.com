@@ -8,7 +8,7 @@ comments:
 ---
 **Buscarnos la vida**. La única alternativa que nos queda es dejar de esperar a que los gobiernos hagan algo, y confiar en nuestra capacidad de cambiar el rumbo.
 
-No hace falta explicar otra vez qué la cumbre de Copenhagen resultó ser un fracaso estrepitoso. Los anuncios que [Greenpeace](http://www.greenpeace.org/espana/) y [tcktcktck](http://tcktcktck.org/es) hicieron con los líderes de distintos países pidiendo perdón (como este de Zapatero) resultaron ser lamentablemente premonitorios.![](/images/posts/2010-01-03-que-hacemos-despues-de-copenhagen/zpgreenpeace_1-314x127.jpg)
+No hace falta explicar otra vez qué la cumbre de Copenhagen resultó ser un fracaso estrepitoso. Los anuncios que [Greenpeace](http://www.greenpeace.org/espana/) y [tcktcktck](http://tcktcktck.org/es)![](/images/posts/2010-01-03-que-hacemos-despues-de-copenhagen/zpgreenpeace_1-314x127.jpg)
 
 Se cumplieron también los augúrios de que **los mismos tipos que hicieron lo posible por salvar a los bancos y su sistema financiero, no harían nada de nada por salvar el planeta** de la más que probable catástrofe medioambiental.
 
