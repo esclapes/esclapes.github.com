@@ -27,7 +27,7 @@ dive('./_node', { all: true }, function(err, file) {
 }, function() {
     var template = swig.compileFile('./template.swig');
     pages.forEach(function(page) {
-        fs.writeFile('./_posts/'+page.parts.slug+'.md', template(page.parts));
+        fs.writeFile('../_posts/'+page.parts.slug+'.md', template(page.parts));
     });
 
 });
