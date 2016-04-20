@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "es-ES"
+title                    : "Eduardo Esclapés"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Eduardo Esclapés"
+description              : "Live, care, make."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  :
+gh_repo                  : "https://github.com/esclapes/esclapes.github.com.git"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "esclapes"
 facebook:
   username               :
   app_id                 :
@@ -44,15 +44,19 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person" # Person or Organization (defaults to Person)
+  name                   : "Eduardo Esclapés" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - https://twitter.com/esclapes
+    - https://linkedin.com/in/esclapes
+    - https://github.com/esclapes
+    - https://www.instagram.com/eesclapes/
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-55319132-1"
 
 # Google AdSense
 google_ad_client         :
@@ -61,11 +65,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Eduardo Esclapés"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Live, care, make."
+  location         : "Better ask"
+  email            : "eduardo.esclapes+blog@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -73,18 +77,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "esclapes"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "eesclapes"
   lastfm           :
-  linkedin         :
+  linkedin         : "esclapes"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "esclapes"
   vine             :
   weibo            :
   xing             :
@@ -118,6 +122,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _scraping
 keep_files:
   - .git
   - .svn
@@ -146,7 +151,7 @@ kramdown:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -155,6 +160,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Plugins
 gems:
   - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed

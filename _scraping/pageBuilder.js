@@ -1,33 +1,31 @@
-var toMd 		= require('to-markdown');
-var cheerio 	= require('cheerio');
-var fs 			= require('fs');
-var slug        = require('slug');
+var toMd 		= require('to-markdown'),
+    cheerio = require('cheerio'),
+    slug    = require('slug'),
+    fs      = require("fs"),
+    url     = require("url"),
+    path    = require("path"),
+    http    = require("http");
 
 var Page = function(file){
     this._$ = cheerio.load(fs.readFileSync(file), { ignoreWhitespace: true });
     var id = file.match(/node\/(\d+)\.html/);
     if (id) {
-       this.parts = this.getParts();
-       this.parts.id = id[1];
+      this.parts = {};
+      this.parts.id = id[1];
+      this.parts.date = this.parseDate();
+      this.parts.title = this._$('#page-title').first().text();
+      this.parts.slug = this.parts.date + '-' + slug(this.parts.title, {lower: true});
+      this.parts.content = this.parseContent();
+      this.parts.tags = this._$('.vocab ul li').text().split(' | ');
+      this.parts.comments = this.parseComments();
     }
     else {
-        throw new Error('Not a node');
+        throw new Error('Not a node: ' + file);
     }
 };
 
-Page.prototype.getParts = function() {
-  var parts = {};
-  parts.date = this.parseDate(this._$('.article .submitted .time').first().text());
-  parts.title = this._$('#page-title').first().text();
-  parts.slug = parts.date + '-' + slug(parts.title, {lower: true});
-  parts.content = this.parseContent();
-  parts.tags = this._$('.vocab ul li').text().split(' | ');
-  parts.comments = this.parseComments();
-
-  return parts;
-}
-
-Page.prototype.parseDate = function(datestring) {
+Page.prototype.parseDate = function() {
+    var datestring = this._$('.article .submitted .time').first().text();
     var date = datestring.match(/(\d+)\/(\d+)\/(\d+)/);
     // We return an ordered date for Jekyll
     return date ? [date[3],date[2],date[1]].join('-') : '' ;
@@ -39,12 +37,28 @@ Page.prototype.parseContent = function(){
 		raw.find('p.submitted').remove();
     raw.find('.vocab').remove();
     var self = this;
+    // remove empty divs and other wysiwyg side effects
     raw.find('span, p, div').each(function() {
       if ( '' === self._$( this ).html().trim() ) {
         self._$( this ).remove();
       }
     });
+    // copy local images
+    raw.find('img').each(function() {
+      newSrc = self.copyImage(self._$( this ).attr('src'));
+      self._$( this ).attr('src', newSrc)
+    });
 		return raw.html() ? toMd(raw.html()) : '';
+}
+
+Page.prototype.copyImage = function(src) {
+  var parsed = url.parse(src);
+  var filename = path.basename(parsed.pathname);
+  var directory = "../images/posts/" + this.parts.slug;
+
+  downloadIfNotExists(directory, filename, src);
+
+  return (directory + "/" + filename).slice(2);
 }
 
 Page.prototype.parseComments = function(){
@@ -57,13 +71,51 @@ Page.prototype.parseComments = function(){
         self._$(this).find('.submitted').remove();
         self._$(this).find('.links').remove();
         comments[i].comment = self._$(this).text();
-
     });
         return comments;
 }
 
 Page.prototype.log = function(){
    	console.log(this.parts);
+};
+
+var downloadIfNotExists = function(directory, filename, src) {
+  var dest = directory + "/" + filename;
+  // check if file is already downloaded
+  fs.access(dest, (err) => {
+    if (!err) {
+      console.log("File " + filename + " already exists in " + directory);
+    }
+    else {
+      checkDirectorySync(directory);
+      download(src, dest, (err) => {
+        if(err) console.log("Error on download: " + err.message);
+      })
+    };
+  });
+
+
+}
+
+var checkDirectorySync = function(directory) {
+  try {
+    fs.statSync(directory);
+  } catch(e) {
+    fs.mkdirSync(directory);
+  }
+}
+
+var download = function(url, dest, cb) {
+  var file = fs.createWriteStream(dest);
+  var request = http.get(url, function(response) {
+    response.pipe(file);
+    file.on('finish', function() {
+      file.close(cb);  // close() is async, call cb after close completes.
+    });
+  }).on('error', function(err) { // Handle errors
+    fs.unlink(dest); // Delete the file async. (But we don't check the result)
+    cb(err);
+  });
 };
 
 exports.Page = Page;
