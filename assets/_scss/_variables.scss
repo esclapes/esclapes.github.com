@@ -59,6 +59,7 @@ $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
+$brand-red                  : #DE4648;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -103,6 +104,7 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 @include breakpoint-set("to ems", true);
 
+$x-small                    : 420px;
 $small                      : 600px;
 $medium                     : 768px;
 $medium-wide                : 900px;
