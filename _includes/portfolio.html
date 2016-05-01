@@ -2,19 +2,40 @@
 
 <section class="project">
 
-  <div class="project__head" style="background-image: url({{ project.image }})">
-    <div class="u-text-overlay"></div>
-    <h2 class="project__title">{{ project.title }}</h2>
-    <div class="project__meta">
-      <span class="u-tag year">{{ project.date | date: "%Y" }}</span>
-      {% for skill in project.skills %}
-        <abbr class="u-tag {{ skill.abbr }}" title="{{ skill.title}}"><span>{{ skill.abbr }}</span></abbr>
-      {% endfor %}
+  <header class="project__head" style="background-image: url({{ project.image }})">
+    <div class="u-text-overlay">
+      <h2 class="project__title">{{ project.title }}</h2>
+      <div class="project__meta">
+        <span class="u-tag year">{{ project.date | date: "%Y" }}</span>
+        {% for skill in project.skills %}
+          <abbr class="u-tag {{ skill.abbr }}" title="{{ skill.title}}"><span>{{ skill.abbr }}</span></abbr>
+        {% endfor %}
+      </div>
     </div>
-  </div>
+  </header>
 
-  <div class="project__content">
+  <main class="project__content">
     {{ project.content }}
-  </div>
+    <section class="project__lessons">
+    <p>My contribution:</p>
+      <ul>
+        {% for lesson in project.lessons %}
+          <li>{{ lesson }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+    <section class="project__images">
+      {% for image in project.images %}
+        <a class="project__image" href="{{ image | prepend: "/images/projects/" }}">
+          <img src="{{ image | prepend: "/images/projects/" }}">
+        </a>
+      {% endfor %}
+    </section>
+    <section class="project__links">
+      {% for link in project.links %}
+      <a class="btn"href="{{ link.url }}"><i class="fa {{ link.class }}"></i>&nbsp;{{ link.title }}</a>
+      {% endfor %}
+    </section>
+  </main>
 
 </section>

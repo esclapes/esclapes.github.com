@@ -34,7 +34,7 @@
 
 .project {
   background-color: #F8EA8C;
-  margin: 1em;
+  margin: 2em 1em;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
   &:nth-child(odd) {
     background-color: #FFF8E8;
@@ -43,24 +43,39 @@
 
 
 .project__head {
-  padding: 2em;
+  position: relative;
+  color: #fff;
+  min-height: 40vh;
   background-size: cover;
-  color: white;
+  text-align: center;
 }
 
 .project__title {
+  margin: 0 auto;
+  position: absolute;
+  bottom: 4rem;
+  left: 2rem;
+
   font-size: $type-size-3;
-  @include breakpoint($small) {
+  @include breakpoint($x-small) {
     font-size: $type-size-2;
   }
-  @include breakpoint($medium) {
+  @include breakpoint($small) {
     font-size: $type-size-1;
   }
-  margin-bottom: 0;
+}
+
+.project__meta {
+  position: absolute;
+  bottom: 2rem;
+  left: 2rem;
 }
 
 .project__content {
   padding: 1em 2em;
+  > p {
+    font-size: 1.2em;
+  }
 }
 
 /* Responsive abbr
@@ -78,6 +93,34 @@
   }
 }
 
+/* Images
+   ================================================================ */
+
+.project__images {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.project__image {
+  width: 100%;
+  @include breakpoint($small) {
+    width: 45%;
+    margin: 1%;
+  }
+  @include breakpoint($medium) {
+    width: 30%;
+    margin: 1%;
+  }
+}
+
+/* Portfolio links
+   ================================================================ */
+.project__links {
+  text-align: right;
+}
+
 /* Utilities
    ================================================================ */
 
@@ -86,18 +129,18 @@
   color: $gray;
   text-shadow: 0 1px rgba(0,0,0,0.15);
   border: 0px white;
-  background-color: $lighter-gray;
+  background-color: #fff;
   border-radius: 2px;
   box-shadow: inset 0 -2px rgba(255,255,255,0.1),
               inset 0 -3px rgba(0,0,0,0.1),
               0 1px rgba(0,0,0,0.05);
   padding: 0.3em .8em .5em;
+  text-transform: uppercase;
 }
 
-.u-text-ovelay {
+.u-text-overlay {
   position: absolute;
   width: 100%;
   height: 100%;
   background-color: rgba(0,0,0,0.2);
-  filter: blur(5px);
 }

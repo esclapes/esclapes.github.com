@@ -10,7 +10,7 @@ header:
 ---
 
 {% include base_path %}
-
+{% comment %}
 <div class="notice text-center">
 
   <p><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
@@ -18,7 +18,10 @@ header:
   <br/>You can follow the project history and status <a href="https://github.com/esclapes/esclapes.github.com/issues">in this repository</a>
 </p>
 </div>
+{% endcomment %}
 
-{% for project in site.portfolio %}
+{% assign projects = site.portfolio | sort: 'date' %}
+
+{% for project in projects reversed %}
   {% include portfolio.html %}
 {% endfor %}
