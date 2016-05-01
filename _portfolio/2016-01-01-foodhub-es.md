@@ -7,7 +7,7 @@ skills:
     title: Web Development
   - abbr: ux
     title: User experience
-image: /images/projects/mobile-paper-protoype.jpg
+image: /images/projects/foodhub-paper-protoype.jpg
 links:
    - url: https://github.com/esclapes/foodhub.es
      title: Repository
