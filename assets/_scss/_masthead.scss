@@ -8,14 +8,14 @@
   animation: intro 0.3s both;
   animation-delay: 0.15s;
   z-index: 20;
+  background-color: $brand-red;
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 0.5em 1em;
     font-family: $sans-serif-narrow;
     font-weight: 700;
-    text-transform: uppercase;
 
     @include breakpoint($x-large) {
       max-width: $x-large;

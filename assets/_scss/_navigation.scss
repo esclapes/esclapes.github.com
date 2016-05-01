@@ -170,20 +170,19 @@
    Priority plus navigation
    ========================================================================== */
 
-.greedy-nav {
+.red-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: #fff;
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: mix(#000, #fff, 10%);
     }
   }
 
@@ -194,7 +193,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: transparent;
     color: #fff;
     cursor: pointer;
   }
@@ -228,8 +227,8 @@
         content: "";
         position: absolute;
         bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        height: 3px;
+        background: mix(#000, #fff, 10%);
         width: 0;
         transition: $global-transition;
       }
@@ -257,6 +256,7 @@
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;
+      color: mix(#fff, $masthead-link-color-hover, 10%);
 
       &:hover {
         color: $masthead-link-color-hover;

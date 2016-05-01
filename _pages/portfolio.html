@@ -1,0 +1,27 @@
+---
+layout: single
+permalink: /keep-learning/
+title: "Keep learning"
+excerpt: "what I learnt building webapps"
+author_profile: false
+class: portfolio
+header:
+  overlay_image: computernotebook-blur.jpg
+---
+
+{% include base_path %}
+{% comment %}
+<div class="notice text-center">
+
+  <p><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+  This is a draft portfolio I built in two days as part of my <em>job in the Netherlands</em> project.
+  <br/>You can follow the project history and status <a href="https://github.com/esclapes/esclapes.github.com/issues">in this repository</a>
+</p>
+</div>
+{% endcomment %}
+
+{% assign projects = site.portfolio | sort: 'date' %}
+
+{% for project in projects reversed %}
+  {% include portfolio.html %}
+{% endfor %}

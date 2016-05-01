@@ -129,6 +129,10 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+collections:
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
 
 # Conversion
 markdown: kramdown
@@ -152,7 +156,7 @@ kramdown:
 
 # Outputting
 permalink: /:year/:title/
-paginate: 5 # amount of posts to show
+paginate: 25 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
